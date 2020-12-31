@@ -75,7 +75,7 @@ public class Rock_Paper_Scissor {
             System.out.println("Tie Match");
         }
         else if(player_score > computer_score){
-            System.out.println("Congregation's, You Win!!!");
+            System.out.println("Congratulations, You Win!!!");
         }
         else{
             System.out.println("Computer Wins!!!");
